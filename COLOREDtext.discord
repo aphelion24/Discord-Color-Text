@@ -1,0 +1,50 @@
+# Discord-Color-Text
+Codes for Discord Color text, only works for PC, will not work on mobile.
+
+Gray>
+
+  ```
+[Insert your text here.]
+```
+
+----------
+Orange>
+
+```css
+[Insert your text here.]
+```
+
+----------
+Red>
+
+```diff
+- [Insert your text here.]
+```
+----------
+Yellow>
+
+```fix
+[Insert your text here.]
+```
+----------
+Green>
+
+```diff
++ [Insert your text here.]
+```
+----------
+Cyan>
+
+```bash
+"[Insert your text here.]"
+```
+----------
+Blue>
+
+```ini
+[Insert your text here.]
+```
+
+======
+
+Please notice that you have the copy the ones with color, and yes the yellow one is included.
