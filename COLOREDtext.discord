@@ -45,6 +45,36 @@ Blue>
 [Insert your text here.]
 ```
 
-======
+===========
 
-Please notice that you have the copy the ones with color, and yes the yellow one is included.
+| Please notice that you have the copy the ones with color, and yes the yellow one is included. |
+
+===========
+Default: #839496
+Quote: #586e75
+Solarized Green: #859900
+Solarized Cyan: #2aa198
+Solarized Blue: #268bd2
+Solarized Yellow: #b58900
+Solarized Orange: #cb4b16
+Solarized Red: #dc322f
+
+What can I do if colored text is not working?
+If you’re having trouble with our color codes, try the pasting the text from the generator on the app instead of the website. And remember that some of these color codes work better than others. You might also be using a mobile app, which doesn't allow coloring always.
+You should also check that you use backticks, not quotation marks. You can find backticks from the left-hand corner of your keyboard with the tilde option above it. Use that key instead of using any quotation marks.
+If nothing else works, try the following:
+```fix
+text is here```
+This usually fixes the most problems with the text coloring. Sometimes with the Desktop app or web browser, you need to type the markdown codes yourself.
+
+What are Discord HTML hex color codes?
+Discord has very unique shade of blue. HTML hex color code of Discord brand blue is the following:
+HEX COLOR: #7289DA;
+Check out discord HTML color codes
+
+What are Discord HTML hex color codes?
+Discord has very unique shade of blue. HTML hex color code of Discord brand blue is the following:
+HEX COLOR: #7289DA;
+Check out discord HTML color codes
+
+Thanks to https://purecalculators.com/discord-colored-text-generator for the information included above! Huge Credit to those guys.
